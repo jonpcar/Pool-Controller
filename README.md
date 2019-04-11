@@ -18,3 +18,7 @@ In addition I want it to (with WiFi available):
 2) send updates, warnings, alerts about the system status
 3) allow manual operations including overrides of existing schedule for pump/valves, lights, chemicals, waterfall, tbd
 4) everything (within reason) accessible-controllable via phone app
+
+
+Main Status/SpecialOps Android Screen
+![Alt text](/ScreenShots/Screenshot_20190410-180119.jpg?raw=true "Optional Title")
