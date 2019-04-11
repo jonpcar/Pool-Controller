@@ -11,7 +11,7 @@ The project will consist of these parts:
 3) a Google Sheets interface to the Photon that will allow me to log and store all desired data
 4) Photon firmware that will implement: all hardware functionality, interfaces to the Android App, and interfaces to the Google spreadsheet.
     
-My goal is to have a completely self contained system that can operate my pool pump/valves for weeks without WiFi, not that it is necessary but in order to be serlf contained and not dependent on Wifi/internet.  All scheduling will be maintained and implemented on the Photon itself (beside chemicals testing/maintenance).  Scheduling will include the ability to schedule for all four seasons.  
+My goal is to have a completely self contained system that can operate my pool pump/valves for weeks without WiFi, not that it is necessary but in order to be self contained and not dependent on Wifi/internet.  All scheduling will be maintained and implemented on the Photon itself (beside chemicals testing/maintenance).  Scheduling will include the ability to schedule for all four seasons.  
 
 In addition I want it to (with WiFi available):
 1) collect and store data (temps, psi’s, Watts, gpm, chem injections, chem readings)
