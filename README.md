@@ -19,7 +19,9 @@ In addition I want it to (with WiFi available):
 3) allow manual operations including overrides of existing schedule for pump/valves, lights, chemicals, waterfall, tbd
 4) everything (within reason) accessible-controllable via phone app
 
-Some Screen Shots:
+Some Screen Shots of the Android App follow.  All these screenshots rely on data obtained from the Photon.   The data on the Photon is currently just random/made up data (with the exception of commands that actually turn something on and changes the pool status).   Commands sent to the Photon are always done via a handshake.  For example, if a light/pump is turned on, the Android app only updates the status of the light on the Android app when it obtains confirmation from the Photon that the light is actually on.   Same thing for chemical injection, pump/valve status, etc.
+
+Currently the pool operation schedule can be viewed in the Android app but not changed.  I don't like the current format and so will make changes to that when I get time and haven't posted a screenshot. 
 
 
 
