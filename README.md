@@ -27,6 +27,6 @@ Currently the pool operation schedule can be viewed in the Android app but not c
 
 ![Alt text](/ScreenShots/Screenshot_stat.jpg?raw=true "Optional Title")
 ![Alt text](/ScreenShots/Screenshot_Stat_EggTimer.jpg?raw=true "Optional Title")
-![Alt text](/ScreenShots/Screenshot_Chem_.jpg?raw=true "Optional Title")
+![Alt text](/ScreenShots/Screenshot_Chem.jpg?raw=true "Optional Title")
 ![Alt text](/ScreenShots/Screenshot_Chem_Tests.jpg?raw=true "Optional Title")
 ![Alt text](/ScreenShots/Screenshot_Chem_Recent.jpg?raw=true "Optional Title")
