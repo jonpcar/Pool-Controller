@@ -21,7 +21,9 @@ In addition I want it to (with WiFi available):
 
 Some Screen Shots of the Android App follow.  All these screenshots rely on data obtained from the Photon.   The data on the Photon is currently just random/made up data (with the exception of commands that actually turn something on and changes the pool status).   Commands sent to the Photon are always done via a handshake.  For example, if a light/pump is turned on, the Android app only updates the status of the light on the Android app when it obtains confirmation from the Photon that the light is actually on.   Same thing for chemical injection, pump/valve status, etc.
 
-Currently the pool operation schedule can be viewed in the Android app but not changed.  I don't like the current format and so will make changes to that when I get time and haven't posted a screenshot. 
+I haven't figured everything out yet, but I think I can get where I want to go.  Developing the user interface first really helped me decide exactly what I wanted to try and do with the project...it doesn't mean that I will actually get there though.  I'll take it a step at a time from here.   The first step will probably be adding Photon functionality to actually sample PSI and temperature parameters that will be stored in a google spreadsheet.  This doesn't require me to gut my current pool automation control and can simply be added on "top" of it.
+
+Currently the pool operation schedule can be viewed in the Android app but not changed.  I don't like the current format and so will make changes to that when I get time and haven't posted a screenshot.
 
 
 
