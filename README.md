@@ -1,6 +1,10 @@
 # Pool Controller
 Pool Controller based on a Particle IO Photon
 
+i havent been making updates to this site (yet) but am making a lot of progress on this project.  i update my progress here:
+
+https://www.troublefreepool.com/threads/my-new-pool-automation-controller.187583/
+
 This project will eventually be a pool controller for my swimming pool.  It is very specific to my pool, but others may find parts of it useful in doing a similar project.   I have obtained inspiration from many other pool projects that have been posted on the web, including some here on GitHub.  Special thanks to Zack Graber, an awesome programmer (and not that bad of a son-in-law, too) who jump started me on ALL aspects of this program and who probably would have finished the entire project if he had a couple more days to spend on it, haha.  Truthfully, there are sections of code in the Android app that I have not deciphered yet.
 
 There will be a rather slow rollout of this project because almost everything is new to me, AND I am not in a rush.
