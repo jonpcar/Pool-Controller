@@ -1,7 +1,7 @@
 # Pool Controller
 Pool Controller based on a Particle IO Photon
 
-i havent been making updates to this site (yet) but am making a lot of progress on this project.  i update my progress here:
+I havenkt been making updates to this site (yet...) but am making a lot of progress on this project.  I update my progress here:
 
 https://www.troublefreepool.com/threads/my-new-pool-automation-controller.187583/
 
